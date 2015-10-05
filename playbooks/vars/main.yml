@@ -1,0 +1,4 @@
+---
+app_name: support
+repo_url: "git@github.com:kevinold/support_elixir.git"
+app_port: 3001
